@@ -1,3 +1,3 @@
 # BelajarKolaborasi
 - Collaborator & Revert
-- Squash & Merged
+- Squash & Merged #1
