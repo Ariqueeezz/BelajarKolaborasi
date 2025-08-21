@@ -1,5 +1,4 @@
 # BelajarKolaborasi
 - Collaborator & Revert
-- Squash & Merged #1
-- 
-- 
+- Squash & Merged
+- Code Reviews
