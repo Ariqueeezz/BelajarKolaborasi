@@ -1,2 +1,1 @@
 # BelajarKolaborasi
-Sudah ya!
